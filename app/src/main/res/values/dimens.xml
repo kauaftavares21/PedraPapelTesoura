@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tamanho_botao">92dp</dimen>
+    <dimen name="tamanho_icone_arena">72dp</dimen>
+    <dimen name="margem_tela">20dp</dimen>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pedra, Papel e Tesoura</string>
+    <string name="titulo">Pedra, Papel e Tesoura</string>
+
+    <string name="jogador">Jogador</string>
+    <string name="computador">Computador</string>
+    <string name="voce">Você</string>
+    <string name="versus">×</string>
+
+    <string name="pedra">Pedra</string>
+    <string name="papel">Papel</string>
+    <string name="tesoura">Tesoura</string>
+
+    <string name="escolha_sua_jogada">Escolha sua jogada!</string>
+    <string name="aguardando">Aguardando jogada</string>
+    <string name="jogada_computador">Computador: %1$s</string>
+
+    <string name="resultado_vitoria">Você venceu!</string>
+    <string name="resultado_derrota">Você perdeu!</string>
+    <string name="resultado_empate">Empate!</string>
+
+    <string name="nova_jogada">Nova jogada</string>
+    <string name="finalizar_jogo">Finalizar o jogo</string>
+
+    <string name="fim_de_jogo">Fim de jogo</string>
+    <string name="placar_final">Placar final\n\nJogador: %1$d\nComputador: %2$d\n\n%3$s</string>
+    <string name="final_vitoria">Parabéns, você ganhou a partida! 🎉</string>
+    <string name="final_derrota">O computador ganhou desta vez.</string>
+    <string name="final_empate">A partida terminou empatada.</string>
+    <string name="jogar_novamente">Jogar novamente</string>
+    <string name="sair">Sair</string>
+</resources>

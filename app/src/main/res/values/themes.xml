@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PedraPapelTesoura" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primaria</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorPrimaryContainer">@color/primaria_clara</item>
+        <item name="colorSecondary">@color/primaria</item>
+        <item name="android:colorBackground">@color/fundo</item>
+        <item name="colorSurface">@color/superficie</item>
+        <item name="colorOutline">@color/borda</item>
+        <item name="android:statusBarColor">@color/fundo</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <!-- Estilos reutilizados no layout -->
+    <style name="TextoRotulo">
+        <item name="android:textColor">@color/texto_secundario</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextoPontos">
+        <item name="android:textColor">@color/texto_principal</item>
+        <item name="android:textSize">32sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="BotaoOpcao">
+        <item name="android:layout_width">@dimen/tamanho_botao</item>
+        <item name="android:layout_height">@dimen/tamanho_botao</item>
+        <item name="android:background">@drawable/bg_botao_opcao</item>
+        <item name="android:padding">18dp</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+
+    <style name="RotuloOpcao">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">6dp</item>
+        <item name="android:textColor">@color/texto_principal</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

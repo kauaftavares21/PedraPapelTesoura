@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta inspirada no exemplo do enunciado (tons de areia) -->
+    <color name="fundo">#F6EEE3</color>
+    <color name="superficie">#FFFBF5</color>
+    <color name="borda">#D9C8B0</color>
+    <color name="texto_principal">#2B2118</color>
+    <color name="texto_secundario">#7A6A58</color>
+    <color name="primaria">#8C5A2B</color>
+    <color name="primaria_clara">#EBD9C1</color>
+
+    <!-- Cores do resultado -->
+    <color name="vitoria">#2E7D32</color>
+    <color name="derrota">#C62828</color>
+    <color name="empate">#6D5C48</color>
+
+    <!-- Ícones -->
+    <color name="icone_contorno">#2B2118</color>
+    <color name="pedra">#A8A29A</color>
+    <color name="papel">#FFFFFF</color>
+    <color name="tesoura">#8C5A2B</color>
+</resources>

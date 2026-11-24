@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Botão circular com efeito de toque (ripple) -->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/primaria_clara">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/superficie" />
+            <stroke android:width="3dp" android:color="@color/icone_contorno" />
+        </shape>
+    </item>
+</ripple>
